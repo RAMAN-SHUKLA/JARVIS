@@ -1,0 +1,2 @@
+gmailpassword="xwbe zedo rdrn ukmr"
+openai_key="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"
